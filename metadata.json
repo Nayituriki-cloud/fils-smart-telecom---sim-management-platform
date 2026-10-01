@@ -1,0 +1,6 @@
+{
+  "name": "FILS — Smart Telecom & SIM Management Platform",
+  "description": "Professional telecommunications SIM-card, mobile-service, customer, agent, and compliance management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
